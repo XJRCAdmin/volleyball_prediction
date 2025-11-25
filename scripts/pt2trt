@@ -1,0 +1,53 @@
+#!/usr/bin/env bash
+set -x -e 
+# source ~/robocon/pythorn/pyVenv/main.sh
+# activate yolov9
+base_path=/home/lhx/yolov11_tensorrt/dev/rtd/models
+TENSORRT_PATH=~/TensorRT-8.6.1.6
+# TENSORRT_PATH=/opt/tensorRT/TensorRT-8.6.1.6
+export PATH=$TENSORRT_PATH/bin:$PATH
+export LD_LIBRARY_PATH=$TENSORRT_PATH/lib:$LD_LIBRARY_PATH
+export LIBRARY_PATH=$TENSORRT_PATH/lib:$LIBRARY_PATH./
+mkdir -p $base_path $base_path/pt $base_path/onnx $base_path/trt
+python3 pt2onnx.py  $base_path/pt/$1volleyball_best.pt
+mv $base_path/pt/$1volleyball_best.onnx $base_path/onnx/$1volleyball_best.onnx
+trtexec --onnx=$base_path/onnx/$1volleyball_best.onnx --saveEngine=$base_path/trt/$1volleyball_best.trt --buildOnly
+# --buildOnly  
+# dev/rtd/models/pt  dev/rtd/models/trt
+#!/usr/bin/env bash
+# set -x -e 
+# # 激活虚拟环境
+# source ~/robocon/python/pyVenv/main.sh
+# activate yolov9
+
+# # 设置 TensorRT 的环境变量
+# export PATH=/opt/tensorRT/TensorRT-8.6.1.6/bin:$PATH
+# export LD_LIBRARY_PATH=/opt/tensorRT/TensorRT-8.6.1.6/lib:$LD_LIBRARY_PATH
+# export LIBRARY_PATH=/opt/tensorRT/TensorRT-8.6.1.6/lib:$LIBRARY_PATH
+
+# # 定义基础路径
+# base_path=/home/rc/Projects/yolov8/yolov11_tensorrt/dev/rtd/models
+
+# # 确保目录存在
+# mkdir -p $base_path $base_path/pt $base_path/onnx $base_path/trt
+
+# # 获取输入的 .pt 文件名
+# pt_file=$1
+
+# # 检查 .pt 文件是否存在
+# if [ ! -f "$base_path/pt/$pt_file" ]; then
+#     echo "Error: File $base_path/pt/$pt_file does not exist."
+#     exit 1
+# fi
+
+# # 将 .pt 文件转换为 .onnx 文件
+# python3 pt2onnx.py $base_path/pt/$pt_file
+
+# # 获取 .onnx 文件名
+# onnx_file=${pt_file%.pt}.onnx
+
+# # 移动 .onnx 文件到 onnx 目录
+# mv $base_path/pt/$onnx_file $base_path/onnx/$onnx_file
+
+# # 使用 TensorRT 将 .onnx 文件转换为 .trt 文件
+# trtexec --onnx=$base_path/onnx/$onnx_file --saveEngine=$base_path/trt/$onnx_file.trt --buildOnly

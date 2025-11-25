@@ -1,0 +1,1011 @@
+[2025-06-28 11:29:52.542] [thrdID:0] [info] can[0x23]:17.8 90.9 42b5c286418e6483
+
+dt is changed into:0.016770
+[2025-06-28 11:29:52.542] [thrdID:0] [info] predict_pos:(-0.039, 3.23)
+------------abs_ball_crd----0.027194 3.230118 1.239795
+------------abs_ball_crd----0.263999 3.717573 0.295937
+[2025-06-28 11:29:52.559] [thrdID:0] [info] rltv_cam_origin_crd: (-0.129, 3.97, -0.204) selected abs_ball_crd: (-0.264, 3.72, 0.296)
+
+[2025-06-28 11:29:52.559] [thrdID:0] [info] theta: 91.2 17.2
+[2025-06-28 11:29:52.559] [thrdID:0] [info] can[0x23]:17.2 91.2 42b6715f41896b84
+
+dt is changed into:0.016770
+[2025-06-28 11:29:52.559] [thrdID:0] [info] predict_pos:(-0.039, 3.23)
+------------abs_ball_crd---0.007311 3.209893 1.251136
+------------abs_ball_crd----0.249033 3.709528 0.321938
+[2025-06-28 11:29:52.575] [thrdID:1] [info] rltv_cam_origin_crd: (-0.114, 3.96, -0.178) selected abs_ball_crd: (-0.249, 3.71, 0.322)
+
+[2025-06-28 11:29:52.575] [thrdID:1] [info] theta: 91 17.5
+[2025-06-28 11:29:52.576] [thrdID:1] [info] can[0x23]:17.5 91 42b603ca418c5fa4
+
+dt is changed into:0.016769
+[2025-06-28 11:29:52.576] [thrdID:1] [info] predict_pos:(-0.039, 3.23)
+------------abs_ball_crd---0.017963 3.204852 1.232847
+------------abs_ball_crd----0.244985 3.669212 0.315407
+[2025-06-28 11:29:52.592] [thrdID:0] [info] rltv_cam_origin_crd: (0.153, 3.46, 0.733) selected abs_ball_crd: (0.018, 3.2, 1.23)
+
+[2025-06-28 11:29:52.592] [thrdID:0] [info] theta: 86.8 32.1
+[2025-06-28 11:29:52.592] [thrdID:0] [info] can[0x23]:32.1 86.8 42ada60542005afa
+
+dt is changed into:0.016769
+[2025-06-28 11:29:52.592] [thrdID:0] [info] predict_pos:(-0.039, 3.23)
+------------abs_ball_crd----0.247502 3.628431 0.263553
+[2025-06-28 11:29:52.609] [thrdID:0] [info] rltv_cam_origin_crd: (-0.113, 3.88, -0.236) selected abs_ball_crd: (-0.248, 3.63, 0.264)
+
+[2025-06-28 11:29:52.609] [thrdID:0] [info] theta: 91 16.6
+[2025-06-28 11:29:52.609] [thrdID:0] [info] can[0x23]:16.6 91 42b6084c41851140
+
+dt is changed into:0.016769
+[2025-06-28 11:29:52.609] [thrdID:0] [info] predict_pos:(-0.039, 3.23)
+------------abs_ball_crd---0.012212 3.199454 1.224616
+------------abs_ball_crd----0.245729 3.723510 0.315209
+[2025-06-28 11:29:52.626] [thrdID:1] [info] rltv_cam_origin_crd: (0.161, 3.39, 0.725) selected abs_ball_crd: (0.0122, 3.2, 1.22)
+
+[2025-06-28 11:29:52.626] [thrdID:1] [info] theta: 86.6 32.2
+[2025-06-28 11:29:52.626] [thrdID:1] [info] can[0x23]:32.2 86.6 42ad43314200c6ad
+
+dt is changed into:0.016769
+[2025-06-28 11:29:52.626] [thrdID:1] [info] predict_pos:(-0.039, 3.23)
+------------abs_ball_crd----0.027383 3.174538 1.203278
+------------abs_ball_crd----0.270791 3.724266 0.287612
+[2025-06-28 11:29:52.643] [thrdID:1] [info] rltv_cam_origin_crd: (0.121, 3.36, 0.703) selected abs_ball_crd: (-0.0274, 3.17, 1.2)
+
+[2025-06-28 11:29:52.643] [thrdID:1] [info] theta: 87.3 31.9
+[2025-06-28 11:29:52.643] [thrdID:1] [info] can[0x23]:31.9 87.3 42ae90e841ff76aa
+
+dt is changed into:0.016769
+[2025-06-28 11:29:52.643] [thrdID:1] [info] predict_pos:(-0.039, 3.23)
+------------abs_ball_crd----0.266750 3.629711 0.259854
+[2025-06-28 11:29:52.659] [thrdID:0] [info] rltv_cam_origin_crd: (-0.118, 3.82, -0.24) selected abs_ball_crd: (-0.267, 3.63, 0.26)
+
+[2025-06-28 11:29:52.659] [thrdID:0] [info] theta: 91.1 16.5
+[2025-06-28 11:29:52.659] [thrdID:0] [info] can[0x23]:16.5 91.1 42b63cb541842ad6
+
+dt is changed into:0.016769
+[2025-06-28 11:29:52.659] [thrdID:0] [info] predict_pos:(-0.039, 3.23)
+------------abs_ball_crd----0.236574 3.603472 0.255473
+[2025-06-28 11:29:52.676] [thrdID:0] [info] rltv_cam_origin_crd: (-0.088, 3.79, -0.245) selected abs_ball_crd: (-0.237, 3.6, 0.255)
+
+[2025-06-28 11:29:52.676] [thrdID:0] [info] theta: 90.7 16.4
+[2025-06-28 11:29:52.676] [thrdID:0] [info] can[0x23]:16.4 90.7 42b558e1418370eb
+
+dt is changed into:0.016768
+[2025-06-28 11:29:52.676] [thrdID:0] [info] predict_pos:(-0.039, 3.23)
+------------abs_ball_crd----0.232640 3.538113 0.313634
+[2025-06-28 11:29:52.692] [thrdID:0] [info] rltv_cam_origin_crd: (-0.084, 3.73, -0.186) selected abs_ball_crd: (-0.233, 3.54, 0.314)
+
+[2025-06-28 11:29:52.692] [thrdID:0] [info] theta: 90.6 17.3
+[2025-06-28 11:29:52.693] [thrdID:0] [info] can[0x23]:17.3 90.6 42b5450d418a0e24
+
+dt is changed into:0.016768
+[2025-06-28 11:29:52.693] [thrdID:0] [info] predict_pos:(-0.039, 3.23)
+------------abs_ball_crd----0.028006 3.158408 1.204999
+------------abs_ball_crd----0.259247 3.648517 0.309730
+[2025-06-28 11:29:52.709] [thrdID:1] [info] rltv_cam_origin_crd: (-0.103, 3.77, -0.19) selected abs_ball_crd: (-0.259, 3.65, 0.31)
+
+[2025-06-28 11:29:52.709] [thrdID:1] [info] theta: 90.9 17.2
+[2025-06-28 11:29:52.709] [thrdID:1] [info] can[0x23]:17.2 90.9 42b5d2fc4189d793
+
+dt is changed into:0.016768
+[2025-06-28 11:29:52.709] [thrdID:1] [info] predict_pos:(-0.039, 3.23)
+------------abs_ball_crd----0.250476 3.578820 0.313609
+[2025-06-28 11:29:52.726] [thrdID:0] [info] rltv_cam_origin_crd: (-0.0946, 3.7, -0.186) selected abs_ball_crd: (-0.25, 3.58, 0.314)
+
+[2025-06-28 11:29:52.726] [thrdID:0] [info] theta: 90.8 17.2
+[2025-06-28 11:29:52.726] [thrdID:0] [info] can[0x23]:17.2 90.8 42b59bd24189e2fa
+
+dt is changed into:0.016767
+[2025-06-28 11:29:52.726] [thrdID:0] [info] predict_pos:(-0.039, 3.23)
+------------abs_ball_crd----0.244341 3.595781 0.279371
+[2025-06-28 11:29:52.743] [thrdID:0] [info] rltv_cam_origin_crd: (-0.0884, 3.72, -0.221) selected abs_ball_crd: (-0.244, 3.6, 0.279)
+
+[2025-06-28 11:29:52.743] [thrdID:0] [info] theta: 90.7 16.7
+[2025-06-28 11:29:52.743] [thrdID:0] [info] can[0x23]:16.7 90.7 42b567334185c81b
+
+dt is changed into:0.016767
+[2025-06-28 11:29:52.743] [thrdID:0] [info] predict_pos:(-0.039, 3.23)
+------------abs_ball_crd----0.229715 3.523482 0.281912
+[2025-06-28 11:29:52.760] [thrdID:0] [info] rltv_cam_origin_crd: (-0.0738, 3.64, -0.218) selected abs_ball_crd: (-0.23, 3.52, 0.282)
+
+[2025-06-28 11:29:52.760] [thrdID:0] [info] theta: 90.5 16.7
+[2025-06-28 11:29:52.760] [thrdID:0] [info] can[0x23]:16.7 90.5 42b4fe8d41858fec
+
+dt is changed into:0.016766
+[2025-06-28 11:29:52.760] [thrdID:0] [info] predict_pos:(-0.039, 3.23)
+------------abs_ball_crd---0.001329 3.132053 1.257800
+------------abs_ball_crd----0.255145 3.501771 0.375804
+[2025-06-28 11:29:52.776] [thrdID:1] [info] rltv_cam_origin_crd: (0.157, 3.25, 0.758) selected abs_ball_crd: (0.00133, 3.13, 1.26)
+
+[2025-06-28 11:29:52.776] [thrdID:1] [info] theta: 86.6 33.2
+[2025-06-28 11:29:52.777] [thrdID:1] [info] can[0x23]:33.2 86.6 42ad22ae4204f071
+
+dt is changed into:0.016789
+[2025-06-28 11:29:52.777] [thrdID:1] [info] predict_pos:(-0.039, 3.23)
+------------abs_ball_crd----0.245316 3.534234 0.393134
+[2025-06-28 11:29:52.793] [thrdID:1] [info] rltv_cam_origin_crd: (-0.0894, 3.65, -0.107) selected abs_ball_crd: (-0.245, 3.53, 0.393)
+
+[2025-06-28 11:29:52.793] [thrdID:1] [info] theta: 90.7 18.4
+[2025-06-28 11:29:52.793] [thrdID:1] [info] can[0x23]:18.4 90.7 42b5785b41939007
+
+dt is changed into:0.016789
+[2025-06-28 11:29:52.793] [thrdID:1] [info] predict_pos:(-0.039, 3.23)
+------------abs_ball_crd----0.222942 3.594296 0.392262
+[2025-06-28 11:29:52.810] [thrdID:1] [info] rltv_cam_origin_crd: (-0.0663, 3.64, -0.108) selected abs_ball_crd: (-0.223, 3.59, 0.392)
+
+[2025-06-28 11:29:52.810] [thrdID:1] [info] theta: 90.4 18.4
+[2025-06-28 11:29:52.810] [thrdID:1] [info] can[0x23]:18.4 90.4 42b4bfec41936636
+
+dt is changed into:0.016789
+[2025-06-28 11:29:52.810] [thrdID:1] [info] predict_pos:(-0.039, 3.23)
+------------abs_ball_crd----0.260380 3.569770 0.316065
+[2025-06-28 11:29:52.827] [thrdID:0] [info] rltv_cam_origin_crd: (-0.104, 3.62, -0.184) selected abs_ball_crd: (-0.26, 3.57, 0.316)
+
+[2025-06-28 11:29:52.827] [thrdID:0] [info] theta: 91 17.2
+[2025-06-28 11:29:52.827] [thrdID:0] [info] can[0x23]:17.2 91 42b5f24f4189a9f6
+
+dt is changed into:0.016788
+[2025-06-28 11:29:52.827] [thrdID:0] [info] predict_pos:(-0.039, 3.23)
+------------abs_ball_crd----0.226714 3.569268 0.378681
+[2025-06-28 11:29:52.844] [thrdID:0] [info] rltv_cam_origin_crd: (-0.07, 3.62, -0.121) selected abs_ball_crd: (-0.227, 3.57, 0.379)
+
+[2025-06-28 11:29:52.844] [thrdID:0] [info] theta: 90.4 18.2
+[2025-06-28 11:29:52.844] [thrdID:0] [info] can[0x23]:18.2 90.4 42b4e09a419195d7
+
+dt is changed into:0.016789
+[2025-06-28 11:29:52.844] [thrdID:0] [info] predict_pos:(-0.039, 3.23)
+------------abs_ball_crd----0.241254 3.550509 0.408051
+[2025-06-28 11:29:52.862] [thrdID:0] [info] rltv_cam_origin_crd: (-0.0846, 3.6, -0.0919) selected abs_ball_crd: (-0.241, 3.55, 0.408)
+
+[2025-06-28 11:29:52.862] [thrdID:0] [info] theta: 90.7 18.7
+[2025-06-28 11:29:52.862] [thrdID:0] [info] can[0x23]:18.7 90.7 42b5594d41953eb7
+
+dt is changed into:0.016788
+[2025-06-28 11:29:52.862] [thrdID:0] [info] predict_pos:(-0.039, 3.23)
+------------abs_ball_crd----0.261963 3.568443 0.379516
+[2025-06-28 11:29:52.877] [thrdID:0] [info] rltv_cam_origin_crd: (-0.105, 3.61, -0.12) selected abs_ball_crd: (-0.262, 3.57, 0.38)
+
+[2025-06-28 11:29:52.877] [thrdID:0] [info] theta: 91 18.2
+[2025-06-28 11:29:52.877] [thrdID:0] [info] can[0x23]:18.2 91 42b5fd0b4191b004
+
+dt is changed into:0.016789
+[2025-06-28 11:29:52.877] [thrdID:0] [info] predict_pos:(-0.039, 3.23)
+------------abs_ball_crd----0.233750 3.532634 0.373997
+[2025-06-28 11:29:52.894] [thrdID:0] [info] rltv_cam_origin_crd: (-0.0771, 3.58, -0.126) selected abs_ball_crd: (-0.234, 3.53, 0.374)
+
+[2025-06-28 11:29:52.894] [thrdID:0] [info] theta: 90.6 18.1
+[2025-06-28 11:29:52.894] [thrdID:0] [info] can[0x23]:18.1 90.6 42b51da84190d42b
+
+dt is changed into:0.016789
+[2025-06-28 11:29:52.894] [thrdID:0] [info] predict_pos:(-0.039, 3.23)
+------------abs_ball_crd----0.248361 3.522356 0.365459
+[2025-06-28 11:29:52.911] [thrdID:0] [info] rltv_cam_origin_crd: (-0.0917, 3.57, -0.135) selected abs_ball_crd: (-0.248, 3.52, 0.365)
+
+[2025-06-28 11:29:52.911] [thrdID:0] [info] theta: 90.8 18
+[2025-06-28 11:29:52.911] [thrdID:0] [info] can[0x23]:18 90.8 42b596b8418fafe5
+
+dt is changed into:0.016788
+[2025-06-28 11:29:52.911] [thrdID:0] [info] predict_pos:(-0.039, 3.23)
+------------abs_ball_crd----0.240410 3.628450 0.394804
+[2025-06-28 11:29:52.928] [thrdID:1] [info] rltv_cam_origin_crd: (-0.0891, 3.59, -0.105) selected abs_ball_crd: (-0.24, 3.63, 0.395)
+
+[2025-06-28 11:29:52.928] [thrdID:1] [info] theta: 90.7 18.4
+[2025-06-28 11:29:52.928] [thrdID:1] [info] can[0x23]:18.4 90.7 42b57c4d419388bd
+
+dt is changed into:0.016788
+[2025-06-28 11:29:52.929] [thrdID:1] [info] predict_pos:(-0.039, 3.23)
+------------abs_ball_crd----0.253015 3.591306 0.371317
+[2025-06-28 11:29:52.947] [thrdID:1] [info] rltv_cam_origin_crd: (-0.102, 3.55, -0.129) selected abs_ball_crd: (-0.253, 3.59, 0.371)
+
+[2025-06-28 11:29:52.947] [thrdID:1] [info] theta: 91 18
+[2025-06-28 11:29:52.947] [thrdID:1] [info] can[0x23]:18 91 42b5eb1a41905df3
+
+dt is changed into:0.016788
+[2025-06-28 11:29:52.947] [thrdID:1] [info] predict_pos:(-0.039, 3.23)
+------------abs_ball_crd----0.233528 3.619017 0.342571
+[2025-06-28 11:29:52.982] [thrdID:1] [info] rltv_cam_origin_crd: (-0.0822, 3.58, -0.157) selected abs_ball_crd: (-0.234, 3.62, 0.343)
+
+[2025-06-28 11:29:52.982] [thrdID:1] [info] theta: 90.6 17.6
+[2025-06-28 11:29:52.982] [thrdID:1] [info] can[0x23]:17.6 90.6 42b54510418cd244
+
+dt is changed into:0.000000
+[2025-06-28 11:29:52.982] [thrdID:1] [info] predict_pos:(-0.039, 3.23)
+------------abs_ball_crd----0.234088 3.523713 0.362784
+[2025-06-28 11:29:52.982] [thrdID:0] [info] rltv_cam_origin_crd: (-0.0828, 3.49, -0.137) selected abs_ball_crd: (-0.234, 3.52, 0.363)
+
+[2025-06-28 11:29:52.982] [thrdID:0] [info] theta: 90.7 17.9
+[2025-06-28 11:29:52.982] [thrdID:0] [info] can[0x23]:17.9 90.7 42b55a93418eeccb
+
+dt is changed into:0.033576
+[2025-06-28 11:29:52.982] [thrdID:0] [info] predict_pos:(-0.039, 3.23)
+------------abs_ball_crd----0.257949 3.575757 0.327518
+[2025-06-28 11:29:52.995] [thrdID:1] [info] rltv_cam_origin_crd: (-0.107, 3.54, -0.172) selected abs_ball_crd: (-0.258, 3.58, 0.328)
+
+[2025-06-28 11:29:52.995] [thrdID:1] [info] theta: 91 17.3
+[2025-06-28 11:29:52.995] [thrdID:1] [info] can[0x23]:17.3 91 42b61543418aa110
+
+dt is changed into:0.016788
+[2025-06-28 11:29:52.995] [thrdID:1] [info] predict_pos:(-0.039, 3.23)
+------------abs_ball_crd----0.234677 3.576062 0.342823
+[2025-06-28 11:29:53.012] [thrdID:1] [info] rltv_cam_origin_crd: (-0.0834, 3.54, -0.157) selected abs_ball_crd: (-0.235, 3.58, 0.343)
+
+[2025-06-28 11:29:53.012] [thrdID:1] [info] theta: 90.7 17.6
+[2025-06-28 11:29:53.012] [thrdID:1] [info] can[0x23]:17.6 90.7 42b5538a418c9c17
+
+dt is changed into:0.016788
+[2025-06-28 11:29:53.012] [thrdID:1] [info] predict_pos:(-0.039, 3.23)
+------------abs_ball_crd----0.242499 3.634212 0.330866
+[2025-06-28 11:29:53.029] [thrdID:0] [info] rltv_cam_origin_crd: (-0.0944, 3.51, -0.169) selected abs_ball_crd: (-0.242, 3.63, 0.331)
+
+[2025-06-28 11:29:53.029] [thrdID:0] [info] theta: 90.9 17.4
+[2025-06-28 11:29:53.029] [thrdID:0] [info] can[0x23]:17.4 90.9 42b5b596418add1f
+
+dt is changed into:0.016788
+[2025-06-28 11:29:53.029] [thrdID:0] [info] predict_pos:(-0.039, 3.23)
+------------abs_ball_crd----0.241489 3.598294 0.319714
+[2025-06-28 11:29:53.045] [thrdID:0] [info] rltv_cam_origin_crd: (-0.0934, 3.47, -0.18) selected abs_ball_crd: (-0.241, 3.6, 0.32)
+
+[2025-06-28 11:29:53.045] [thrdID:0] [info] theta: 90.9 17.1
+[2025-06-28 11:29:53.045] [thrdID:0] [info] can[0x23]:17.1 90.9 42b5b46b41892a79
+
+dt is changed into:0.016787
+[2025-06-28 11:29:53.046] [thrdID:0] [info] predict_pos:(-0.039, 3.23)
+------------abs_ball_crd----0.239998 3.603234 0.278323
+[2025-06-28 11:29:53.062] [thrdID:1] [info] rltv_cam_origin_crd: (-0.0919, 3.47, -0.222) selected abs_ball_crd: (-0.24, 3.6, 0.278)
+
+[2025-06-28 11:29:53.062] [thrdID:1] [info] theta: 90.8 16.5
+[2025-06-28 11:29:53.062] [thrdID:1] [info] can[0x23]:16.5 90.8 42b5a5e84183c1f9
+
+dt is changed into:0.016788
+[2025-06-28 11:29:53.063] [thrdID:1] [info] predict_pos:(-0.039, 3.23)
+------------abs_ball_crd----0.240234 3.600548 0.278895
+[2025-06-28 11:29:53.079] [thrdID:1] [info] rltv_cam_origin_crd: (-0.0922, 3.47, -0.221) selected abs_ball_crd: (-0.24, 3.6, 0.279)
+
+[2025-06-28 11:29:53.079] [thrdID:1] [info] theta: 90.8 16.5
+[2025-06-28 11:29:53.079] [thrdID:1] [info] can[0x23]:16.5 90.8 42b5a7b24183cf76
+
+dt is changed into:0.016788
+[2025-06-28 11:29:53.079] [thrdID:1] [info] predict_pos:(-0.039, 3.23)
+------------abs_ball_crd----0.241178 3.596443 0.288794
+[2025-06-28 11:29:53.096] [thrdID:1] [info] rltv_cam_origin_crd: (-0.0931, 3.47, -0.211) selected abs_ball_crd: (-0.241, 3.6, 0.289)
+
+[2025-06-28 11:29:53.096] [thrdID:1] [info] theta: 90.8 16.6
+[2025-06-28 11:29:53.096] [thrdID:1] [info] can[0x23]:16.6 90.8 42b5afca4185144e
+
+dt is changed into:0.016788
+[2025-06-28 11:29:53.096] [thrdID:1] [info] predict_pos:(-0.039, 3.23)
+------------abs_ball_crd----0.253812 3.667937 0.226951
+[2025-06-28 11:29:53.113] [thrdID:1] [info] rltv_cam_origin_crd: (-0.108, 3.45, -0.273) selected abs_ball_crd: (-0.254, 3.67, 0.227)
+
+[2025-06-28 11:29:53.113] [thrdID:1] [info] theta: 91.1 15.6
+[2025-06-28 11:29:53.113] [thrdID:1] [info] can[0x23]:15.6 91.1 42b6348041798460
+
+dt is changed into:0.016788
+[2025-06-28 11:29:53.113] [thrdID:1] [info] predict_pos:(-0.039, 3.23)
+------------abs_ball_crd----0.230045 3.676481 0.247221
+[2025-06-28 11:29:53.130] [thrdID:1] [info] rltv_cam_origin_crd: (-0.0846, 3.46, -0.253) selected abs_ball_crd: (-0.23, 3.68, 0.247)
+
+[2025-06-28 11:29:53.130] [thrdID:1] [info] theta: 90.7 15.9
+[2025-06-28 11:29:53.130] [thrdID:1] [info] can[0x23]:15.9 90.7 42b567fd417f0989
+
+dt is changed into:0.016788
+[2025-06-28 11:29:53.130] [thrdID:1] [info] predict_pos:(-0.039, 3.23)
+------------abs_ball_crd----0.238669 3.632265 0.280204
+[2025-06-28 11:29:53.146] [thrdID:1] [info] rltv_cam_origin_crd: (-0.0932, 3.41, -0.22) selected abs_ball_crd: (-0.239, 3.63, 0.28)
+
+[2025-06-28 11:29:53.146] [thrdID:1] [info] theta: 90.9 16.4
+[2025-06-28 11:29:53.146] [thrdID:1] [info] can[0x23]:16.4 90.9 42b5ba8341837e7b
+
+dt is changed into:0.016787
+[2025-06-28 11:29:53.146] [thrdID:1] [info] predict_pos:(-0.039, 3.23)
+------------abs_ball_crd----0.235083 3.616042 0.260234
+[2025-06-28 11:29:53.163] [thrdID:1] [info] rltv_cam_origin_crd: (-0.0896, 3.4, -0.24) selected abs_ball_crd: (-0.235, 3.62, 0.26)
+
+[2025-06-28 11:29:53.163] [thrdID:1] [info] theta: 90.8 16.1
+[2025-06-28 11:29:53.163] [thrdID:1] [info] can[0x23]:16.1 90.8 42b59e974180ac16
+
+dt is changed into:0.016787
+[2025-06-28 11:29:53.163] [thrdID:1] [info] predict_pos:(-0.039, 3.23)
+------------abs_ball_crd----0.237354 3.618637 0.238458
+[2025-06-28 11:29:53.180] [thrdID:1] [info] rltv_cam_origin_crd: (-0.0919, 3.4, -0.262) selected abs_ball_crd: (-0.237, 3.62, 0.238)
+
+[2025-06-28 11:29:53.180] [thrdID:1] [info] theta: 90.8 15.7
+[2025-06-28 11:29:53.180] [thrdID:1] [info] can[0x23]:15.7 90.8 42b5b0c6417b8e11
+
+dt is changed into:0.016788
+[2025-06-28 11:29:53.180] [thrdID:1] [info] predict_pos:(-0.039, 3.23)
+------------abs_ball_crd----0.239727 3.595489 0.221391
+[2025-06-28 11:29:53.197] [thrdID:0] [info] rltv_cam_origin_crd: (-0.0943, 3.38, -0.279) selected abs_ball_crd: (-0.24, 3.6, 0.221)
+
+[2025-06-28 11:29:53.197] [thrdID:0] [info] theta: 90.9 15.4
+[2025-06-28 11:29:53.197] [thrdID:0] [info] can[0x23]:15.4 90.9 42b5c9ff417678b7
+
+dt is changed into:0.016787
+[2025-06-28 11:29:53.197] [thrdID:0] [info] predict_pos:(-0.039, 3.23)
+------------abs_ball_crd----0.233988 3.612708 0.231690
+[2025-06-28 11:29:53.213] [thrdID:0] [info] rltv_cam_origin_crd: (-0.0877, 3.31, -0.268) selected abs_ball_crd: (-0.234, 3.61, 0.232)
+
+[2025-06-28 11:29:53.213] [thrdID:0] [info] theta: 90.8 15.5
+[2025-06-28 11:29:53.213] [thrdID:0] [info] can[0x23]:15.5 90.8 42b59fff4177c657
+
+dt is changed into:0.016788
+[2025-06-28 11:29:53.213] [thrdID:0] [info] predict_pos:(-0.039, 3.23)
+------------abs_ball_crd----0.245473 3.616495 0.192470
+[2025-06-28 11:29:53.230] [thrdID:0] [info] rltv_cam_origin_crd: (-0.0992, 3.31, -0.308) selected abs_ball_crd: (-0.245, 3.62, 0.192)
+
+[2025-06-28 11:29:53.230] [thrdID:0] [info] theta: 91 14.8
+[2025-06-28 11:29:53.230] [thrdID:0] [info] can[0x23]:14.8 91 42b603e4416d1730
+
+dt is changed into:0.016787
+[2025-06-28 11:29:53.230] [thrdID:0] [info] predict_pos:(-0.039, 3.23)
+------------abs_ball_crd----0.237627 3.583788 0.178805
+[2025-06-28 11:29:53.247] [thrdID:1] [info] rltv_cam_origin_crd: (-0.0914, 3.28, -0.321) selected abs_ball_crd: (-0.238, 3.58, 0.179)
+
+[2025-06-28 11:29:53.247] [thrdID:1] [info] theta: 90.9 14.5
+[2025-06-28 11:29:53.247] [thrdID:1] [info] can[0x23]:14.5 90.9 42b5c5bd4168777f
+
+dt is changed into:0.016787
+[2025-06-28 11:29:53.247] [thrdID:1] [info] predict_pos:(-0.039, 3.23)
+------------abs_ball_crd----0.236862 3.604329 0.223320
+[2025-06-28 11:29:53.264] [thrdID:0] [info] rltv_cam_origin_crd: (-0.0906, 3.3, -0.277) selected abs_ball_crd: (-0.237, 3.6, 0.223)
+
+[2025-06-28 11:29:53.264] [thrdID:0] [info] theta: 90.9 15.3
+[2025-06-28 11:29:53.264] [thrdID:0] [info] can[0x23]:15.3 90.9 42b5b91241754772
+
+dt is changed into:0.016787
+[2025-06-28 11:29:53.264] [thrdID:0] [info] predict_pos:(-0.039, 3.23)
+------------abs_ball_crd----0.242499 3.568141 0.218670
+[2025-06-28 11:29:53.281] [thrdID:1] [info] rltv_cam_origin_crd: (-0.0962, 3.27, -0.281) selected abs_ball_crd: (-0.242, 3.57, 0.219)
+
+[2025-06-28 11:29:53.281] [thrdID:1] [info] theta: 91 15.2
+[2025-06-28 11:29:53.281] [thrdID:1] [info] can[0x23]:15.2 91 42b5f3c741732345
+
+dt is changed into:0.016787
+[2025-06-28 11:29:53.281] [thrdID:1] [info] predict_pos:(-0.039, 3.23)
+------------abs_ball_crd----0.239266 3.533823 0.187893
+[2025-06-28 11:29:53.297] [thrdID:1] [info] rltv_cam_origin_crd: (-0.093, 3.23, -0.312) selected abs_ball_crd: (-0.239, 3.53, 0.188)
+
+[2025-06-28 11:29:53.297] [thrdID:1] [info] theta: 90.9 14.6
+[2025-06-28 11:29:53.297] [thrdID:1] [info] can[0x23]:14.6 90.9 42b5ded04169a56c
+
+dt is changed into:0.016787
+[2025-06-28 11:29:53.297] [thrdID:1] [info] predict_pos:(-0.039, 3.23)
+------------abs_ball_crd----0.246154 3.613228 0.201237
+[2025-06-28 11:29:53.314] [thrdID:0] [info] rltv_cam_origin_crd: (-0.104, 3.23, -0.299) selected abs_ball_crd: (-0.246, 3.61, 0.201)
+
+[2025-06-28 11:29:53.314] [thrdID:0] [info] theta: 91.1 14.8
+[2025-06-28 11:29:53.314] [thrdID:0] [info] can[0x23]:14.8 91.1 42b643a6416d52bd
+
+dt is changed into:0.016787
+[2025-06-28 11:29:53.315] [thrdID:0] [info] predict_pos:(-0.039, 3.23)
+------------abs_ball_crd----0.241116 3.574743 0.205382
+[2025-06-28 11:29:53.331] [thrdID:0] [info] rltv_cam_origin_crd: (-0.0991, 3.19, -0.295) selected abs_ball_crd: (-0.241, 3.57, 0.205)
+
+[2025-06-28 11:29:53.331] [thrdID:0] [info] theta: 91.1 14.8
+[2025-06-28 11:29:53.331] [thrdID:0] [info] can[0x23]:14.8 91.1 42b61ff5416d7d40
+
+dt is changed into:0.016787
+[2025-06-28 11:29:53.331] [thrdID:0] [info] predict_pos:(-0.039, 3.23)
+------------abs_ball_crd----0.241155 3.570480 0.206974
+[2025-06-28 11:29:53.348] [thrdID:0] [info] rltv_cam_origin_crd: (-0.0991, 3.19, -0.293) selected abs_ball_crd: (-0.241, 3.57, 0.207)
+
+[2025-06-28 11:29:53.348] [thrdID:0] [info] theta: 91.1 14.9
+[2025-06-28 11:29:53.348] [thrdID:0] [info] can[0x23]:14.9 91.1 42b620ba416dd4c9
+
+dt is changed into:0.016787
+[2025-06-28 11:29:53.348] [thrdID:0] [info] predict_pos:(-0.039, 3.23)
+------------abs_ball_crd----0.251137 3.528486 0.161148
+[2025-06-28 11:29:53.365] [thrdID:1] [info] rltv_cam_origin_crd: (-0.109, 3.14, -0.339) selected abs_ball_crd: (-0.251, 3.53, 0.161)
+
+[2025-06-28 11:29:53.365] [thrdID:1] [info] theta: 91.3 14
+[2025-06-28 11:29:53.365] [thrdID:1] [info] can[0x23]:14 91.3 42b68928415f7be7
+
+dt is changed into:0.016787
+[2025-06-28 11:29:53.365] [thrdID:1] [info] predict_pos:(-0.039, 3.23)
+------------abs_ball_crd----0.224983 3.507941 0.238024
+[2025-06-28 11:29:53.382] [thrdID:1] [info] rltv_cam_origin_crd: (-0.0829, 3.12, -0.262) selected abs_ball_crd: (-0.225, 3.51, 0.238)
+
+[2025-06-28 11:29:53.382] [thrdID:1] [info] theta: 90.8 15.3
+[2025-06-28 11:29:53.382] [thrdID:1] [info] can[0x23]:15.3 90.8 42b5999841753338
+
+dt is changed into:0.016787
+[2025-06-28 11:29:53.382] [thrdID:1] [info] predict_pos:(-0.039, 3.23)
+------------abs_ball_crd----0.246375 3.486102 0.238769
+[2025-06-28 11:29:53.399] [thrdID:1] [info] rltv_cam_origin_crd: (-0.104, 3.1, -0.261) selected abs_ball_crd: (-0.246, 3.49, 0.239)
+
+[2025-06-28 11:29:53.399] [thrdID:1] [info] theta: 91.2 15.3
+[2025-06-28 11:29:53.399] [thrdID:1] [info] can[0x23]:15.3 91.2 42b668724174e188
+
+dt is changed into:0.016787
+[2025-06-28 11:29:53.399] [thrdID:1] [info] predict_pos:(-0.039, 3.23)
+------------abs_ball_crd----0.234745 3.474863 0.211741
+[2025-06-28 11:29:53.415] [thrdID:0] [info] rltv_cam_origin_crd: (-0.0927, 3.09, -0.288) selected abs_ball_crd: (-0.235, 3.47, 0.212)
+
+[2025-06-28 11:29:53.416] [thrdID:0] [info] theta: 91 14.8
+[2025-06-28 11:29:53.416] [thrdID:0] [info] can[0x23]:14.8 91 42b5fcec416ca569
+
+dt is changed into:0.016786
+[2025-06-28 11:29:53.416] [thrdID:0] [info] predict_pos:(-0.039, 3.23)
+------------abs_ball_crd----0.237200 3.542570 0.189945
+[2025-06-28 11:29:53.432] [thrdID:0] [info] rltv_cam_origin_crd: (-0.101, 3.08, -0.31) selected abs_ball_crd: (-0.237, 3.54, 0.19)
+
+[2025-06-28 11:29:53.432] [thrdID:0] [info] theta: 91.2 14.4
+[2025-06-28 11:29:53.433] [thrdID:0] [info] can[0x23]:14.4 91.2 42b64fe54165d117
+
+dt is changed into:0.016786
+[2025-06-28 11:29:53.433] [thrdID:0] [info] predict_pos:(-0.039, 3.23)
+------------abs_ball_crd----0.241854 3.529153 0.198340
+[2025-06-28 11:29:53.450] [thrdID:1] [info] rltv_cam_origin_crd: (-0.106, 3.06, -0.302) selected abs_ball_crd: (-0.242, 3.53, 0.198)
+
+[2025-06-28 11:29:53.450] [thrdID:1] [info] theta: 91.2 14.5
+[2025-06-28 11:29:53.450] [thrdID:1] [info] can[0x23]:14.5 91.2 42b67fd84167e772
+
+dt is changed into:0.016787
+[2025-06-28 11:29:53.450] [thrdID:1] [info] predict_pos:(-0.039, 3.23)
+------------abs_ball_crd----0.232584 3.527715 0.226825
+[2025-06-28 11:29:53.467] [thrdID:1] [info] rltv_cam_origin_crd: (-0.0964, 3.06, -0.273) selected abs_ball_crd: (-0.233, 3.53, 0.227)
+
+[2025-06-28 11:29:53.467] [thrdID:1] [info] theta: 91.1 15
+[2025-06-28 11:29:53.467] [thrdID:1] [info] can[0x23]:15 91.1 42b626c2417051ba
+
+dt is changed into:0.016786
+[2025-06-28 11:29:53.467] [thrdID:1] [info] predict_pos:(-0.039, 3.23)
+------------abs_ball_crd----0.256128 3.518853 0.158883
+[2025-06-28 11:29:53.483] [thrdID:0] [info] rltv_cam_origin_crd: (-0.12, 3.05, -0.341) selected abs_ball_crd: (-0.256, 3.52, 0.159)
+
+[2025-06-28 11:29:53.483] [thrdID:0] [info] theta: 91.5 13.7
+[2025-06-28 11:29:53.483] [thrdID:0] [info] can[0x23]:13.7 91.5 42b70aaa415be161
+
+dt is changed into:0.016786
+[2025-06-28 11:29:53.483] [thrdID:0] [info] predict_pos:(-0.039, 3.23)
+------------abs_ball_crd----0.229578 3.503924 0.184099
+[2025-06-28 11:29:53.500] [thrdID:0] [info] rltv_cam_origin_crd: (-0.0934, 3.04, -0.316) selected abs_ball_crd: (-0.23, 3.5, 0.184)
+
+[2025-06-28 11:29:53.500] [thrdID:0] [info] theta: 91 14.2
+[2025-06-28 11:29:53.500] [thrdID:0] [info] can[0x23]:14.2 91 42b60f624162e817
+
+dt is changed into:0.016786
+[2025-06-28 11:29:53.500] [thrdID:0] [info] predict_pos:(-0.039, 3.23)
+------------abs_ball_crd----0.240098 3.559686 0.245797
+[2025-06-28 11:29:53.517] [thrdID:1] [info] rltv_cam_origin_crd: (-0.108, 3.01, -0.254) selected abs_ball_crd: (-0.24, 3.56, 0.246)
+
+[2025-06-28 11:29:53.517] [thrdID:1] [info] theta: 91.3 15.3
+[2025-06-28 11:29:53.517] [thrdID:1] [info] can[0x23]:15.3 91.3 42b6a53841749ad1
+
+dt is changed into:0.016786
+[2025-06-28 11:29:53.517] [thrdID:1] [info] predict_pos:(-0.039, 3.23)
+------------abs_ball_crd----0.229972 3.562887 0.220782
+[2025-06-28 11:29:53.534] [thrdID:1] [info] rltv_cam_origin_crd: (-0.0978, 3.01, -0.279) selected abs_ball_crd: (-0.23, 3.56, 0.221)
+
+[2025-06-28 11:29:53.534] [thrdID:1] [info] theta: 91.1 14.8
+[2025-06-28 11:29:53.534] [thrdID:1] [info] can[0x23]:14.8 91.1 42b640b8416d20ac
+
+dt is changed into:0.016786
+[2025-06-28 11:29:53.534] [thrdID:1] [info] predict_pos:(-0.039, 3.23)
+------------abs_ball_crd----0.235333 3.556687 0.189856
+[2025-06-28 11:29:53.550] [thrdID:0] [info] rltv_cam_origin_crd: (-0.103, 3, -0.31) selected abs_ball_crd: (-0.235, 3.56, 0.19)
+
+[2025-06-28 11:29:53.550] [thrdID:0] [info] theta: 91.2 14.2
+[2025-06-28 11:29:53.550] [thrdID:0] [info] can[0x23]:14.2 91.2 42b6762e41639af9
+
+dt is changed into:0.016786
+[2025-06-28 11:29:53.550] [thrdID:0] [info] predict_pos:(-0.039, 3.23)
+------------abs_ball_crd----0.242317 3.548920 0.169061
+[2025-06-28 11:29:53.567] [thrdID:0] [info] rltv_cam_origin_crd: (-0.11, 3, -0.331) selected abs_ball_crd: (-0.242, 3.55, 0.169)
+
+[2025-06-28 11:29:53.567] [thrdID:0] [info] theta: 91.4 13.8
+[2025-06-28 11:29:53.567] [thrdID:0] [info] can[0x23]:13.8 91.4 42b6bc47415d1262
+
+dt is changed into:0.016786
+[2025-06-28 11:29:53.567] [thrdID:0] [info] predict_pos:(-0.039, 3.23)
+------------abs_ball_crd----0.235120 3.544783 0.199034
+[2025-06-28 11:29:53.584] [thrdID:0] [info] rltv_cam_origin_crd: (-0.103, 2.99, -0.301) selected abs_ball_crd: (-0.235, 3.54, 0.199)
+
+[2025-06-28 11:29:53.584] [thrdID:0] [info] theta: 91.2 14.4
+[2025-06-28 11:29:53.584] [thrdID:0] [info] can[0x23]:14.4 91.2 42b6767e4166040a
+
+dt is changed into:0.016786
+[2025-06-28 11:29:53.584] [thrdID:0] [info] predict_pos:(-0.039, 3.23)
+------------abs_ball_crd----0.243690 3.517429 0.177188
+[2025-06-28 11:29:53.601] [thrdID:0] [info] rltv_cam_origin_crd: (-0.112, 2.96, -0.323) selected abs_ball_crd: (-0.244, 3.52, 0.177)
+
+[2025-06-28 11:29:53.601] [thrdID:0] [info] theta: 91.4 13.9
+[2025-06-28 11:29:53.601] [thrdID:0] [info] can[0x23]:13.9 91.4 42b6d3af415e7e0b
+
+dt is changed into:0.016786
+[2025-06-28 11:29:53.601] [thrdID:0] [info] predict_pos:(-0.039, 3.23)
+------------abs_ball_crd----0.229844 3.600618 0.133329
+[2025-06-28 11:29:53.617] [thrdID:0] [info] rltv_cam_origin_crd: (-0.101, 2.96, -0.367) selected abs_ball_crd: (-0.23, 3.6, 0.133)
+
+[2025-06-28 11:29:53.617] [thrdID:0] [info] theta: 91.2 13.1
+[2025-06-28 11:29:53.617] [thrdID:0] [info] can[0x23]:13.1 91.2 42b66e1841510a81
+
+dt is changed into:0.016785
+[2025-06-28 11:29:53.617] [thrdID:0] [info] predict_pos:(-0.039, 3.23)
+------------abs_ball_crd----0.240499 3.590228 0.180441
+[2025-06-28 11:29:53.634] [thrdID:0] [info] rltv_cam_origin_crd: (-0.112, 2.95, -0.32) selected abs_ball_crd: (-0.24, 3.59, 0.18)
+
+[2025-06-28 11:29:53.634] [thrdID:0] [info] theta: 91.4 13.9
+[2025-06-28 11:29:53.634] [thrdID:0] [info] can[0x23]:13.9 91.4 42b6da8c415f14d4
+
+dt is changed into:0.016786
+[2025-06-28 11:29:53.634] [thrdID:0] [info] predict_pos:(-0.039, 3.23)
+------------abs_ball_crd----0.234019 3.594150 0.182228
+[2025-06-28 11:29:53.652] [thrdID:1] [info] rltv_cam_origin_crd: (-0.105, 2.96, -0.318) selected abs_ball_crd: (-0.234, 3.59, 0.182)
+
+[2025-06-28 11:29:53.652] [thrdID:1] [info] theta: 91.3 14
+[2025-06-28 11:29:53.652] [thrdID:1] [info] can[0x23]:14 91.3 42b6980e415fc264
+
+dt is changed into:0.016786
+[2025-06-28 11:29:53.653] [thrdID:1] [info] predict_pos:(-0.039, 3.23)
+------------abs_ball_crd----0.230285 3.561670 0.152971
+[2025-06-28 11:29:53.668] [thrdID:1] [info] rltv_cam_origin_crd: (-0.102, 2.92, -0.347) selected abs_ball_crd: (-0.23, 3.56, 0.153)
+
+[2025-06-28 11:29:53.668] [thrdID:1] [info] theta: 91.2 13.4
+[2025-06-28 11:29:53.669] [thrdID:1] [info] can[0x23]:13.4 91.2 42b67d7241559efa
+
+dt is changed into:0.016785
+[2025-06-28 11:29:53.669] [thrdID:1] [info] predict_pos:(-0.039, 3.23)
+------------abs_ball_crd----0.226474 3.554046 0.117143
+[2025-06-28 11:29:53.685] [thrdID:0] [info] rltv_cam_origin_crd: (-0.0979, 2.92, -0.383) selected abs_ball_crd: (-0.226, 3.55, 0.117)
+
+[2025-06-28 11:29:53.685] [thrdID:0] [info] theta: 91.2 12.6
+[2025-06-28 11:29:53.685] [thrdID:0] [info] can[0x23]:12.6 91.2 42b65905414a4064
+
+dt is changed into:0.016786
+[2025-06-28 11:29:53.685] [thrdID:0] [info] predict_pos:(-0.039, 3.23)
+------------abs_ball_crd----0.238507 3.530866 0.099857
+[2025-06-28 11:29:53.702] [thrdID:1] [info] rltv_cam_origin_crd: (-0.11, 2.89, -0.4) selected abs_ball_crd: (-0.239, 3.53, 0.0999)
+
+[2025-06-28 11:29:53.702] [thrdID:1] [info] theta: 91.4 12.2
+[2025-06-28 11:29:53.702] [thrdID:1] [info] can[0x23]:12.2 91.4 42b6d9f44143ecab
+
+dt is changed into:0.016785
+[2025-06-28 11:29:53.702] [thrdID:1] [info] predict_pos:(-0.039, 3.23)
+------------abs_ball_crd----0.199891 3.610866 0.135582
+[2025-06-28 11:29:53.718] [thrdID:0] [info] rltv_cam_origin_crd: (-0.0729, 2.9, -0.364) selected abs_ball_crd: (-0.2, 3.61, 0.136)
+
+[2025-06-28 11:29:53.718] [thrdID:0] [info] theta: 90.7 12.9
+[2025-06-28 11:29:53.718] [thrdID:0] [info] can[0x23]:12.9 90.7 42b56178414f2194
+
+dt is changed into:0.016786
+[2025-06-28 11:29:53.718] [thrdID:0] [info] predict_pos:(-0.039, 3.23)
+------------abs_ball_crd----0.221136 3.596360 0.071867
+[2025-06-28 11:29:53.735] [thrdID:1] [info] rltv_cam_origin_crd: (-0.0942, 2.88, -0.428) selected abs_ball_crd: (-0.221, 3.6, 0.0719)
+
+[2025-06-28 11:29:53.735] [thrdID:1] [info] theta: 91.1 11.7
+[2025-06-28 11:29:53.736] [thrdID:1] [info] can[0x23]:11.7 91.1 42b63c90413aa8bc
+
+dt is changed into:0.016785
+[2025-06-28 11:29:53.736] [thrdID:1] [info] predict_pos:(-0.039, 3.23)
+------------abs_ball_crd----0.202455 3.558420 0.074007
+[2025-06-28 11:29:53.752] [thrdID:0] [info] rltv_cam_origin_crd: (-0.0755, 2.84, -0.426) selected abs_ball_crd: (-0.202, 3.56, 0.074)
+
+[2025-06-28 11:29:53.752] [thrdID:0] [info] theta: 90.8 11.6
+[2025-06-28 11:29:53.752] [thrdID:0] [info] can[0x23]:11.6 90.8 42b587ee41398e2e
+
+dt is changed into:0.016785
+[2025-06-28 11:29:53.752] [thrdID:0] [info] predict_pos:(-0.039, 3.23)
+------------abs_ball_crd----0.197810 3.548437 0.080798
+[2025-06-28 11:29:53.768] [thrdID:0] [info] rltv_cam_origin_crd: (-0.0709, 2.83, -0.419) selected abs_ball_crd: (-0.198, 3.55, 0.0808)
+
+[2025-06-28 11:29:53.768] [thrdID:0] [info] theta: 90.7 11.7
+[2025-06-28 11:29:53.768] [thrdID:0] [info] can[0x23]:11.7 90.7 42b559cd413b3b51
+
+dt is changed into:0.016787
+[2025-06-28 11:29:53.768] [thrdID:0] [info] predict_pos:(-0.039, 3.23)
+------------abs_ball_crd----0.198264 3.542187 0.076403
+[2025-06-28 11:29:53.786] [thrdID:1] [info] rltv_cam_origin_crd: (-0.0713, 2.83, -0.424) selected abs_ball_crd: (-0.198, 3.54, 0.0764)
+
+[2025-06-28 11:29:53.786] [thrdID:1] [info] theta: 90.7 11.6
+[2025-06-28 11:29:53.786] [thrdID:1] [info] can[0x23]:11.6 90.7 42b55f5241398b30
+
+dt is changed into:0.016789
+[2025-06-28 11:29:53.786] [thrdID:1] [info] predict_pos:(-0.039, 3.23)
+------------abs_ball_crd----0.191855 3.521933 0.063414
+[2025-06-28 11:29:53.803] [thrdID:1] [info] rltv_cam_origin_crd: (-0.0649, 2.81, -0.437) selected abs_ball_crd: (-0.192, 3.52, 0.0634)
+
+[2025-06-28 11:29:53.803] [thrdID:1] [info] theta: 90.6 11.3
+[2025-06-28 11:29:53.803] [thrdID:1] [info] can[0x23]:11.3 90.6 42b520e641346d8e
+
+dt is changed into:0.016789
+[2025-06-28 11:29:53.803] [thrdID:1] [info] predict_pos:(-0.039, 3.23)
+------------abs_ball_crd----0.187763 3.593130 0.035765
+[2025-06-28 11:29:53.819] [thrdID:1] [info] rltv_cam_origin_crd: (-0.0641, 2.81, -0.464) selected abs_ball_crd: (-0.188, 3.59, 0.0358)
+
+[2025-06-28 11:29:53.819] [thrdID:1] [info] theta: 90.5 10.7
+[2025-06-28 11:29:53.819] [thrdID:1] [info] can[0x23]:10.7 90.5 42b51655412be8fc
+
+dt is changed into:0.016789
+[2025-06-28 11:29:53.819] [thrdID:1] [info] predict_pos:(-0.039, 3.23)
+------------abs_ball_crd----0.177372 3.597300 0.037122
+[2025-06-28 11:29:53.836] [thrdID:1] [info] rltv_cam_origin_crd: (-0.0537, 2.82, -0.463) selected abs_ball_crd: (-0.177, 3.6, 0.0371)
+
+[2025-06-28 11:29:53.836] [thrdID:1] [info] theta: 90.3 10.8
+[2025-06-28 11:29:53.836] [thrdID:1] [info] can[0x23]:10.8 90.3 42b4a854412c8ef5
+
+dt is changed into:0.016789
+[2025-06-28 11:29:53.836] [thrdID:1] [info] predict_pos:(-0.039, 3.23)
+------------abs_ball_crd----0.195077 3.583610 0.026898
+[2025-06-28 11:29:53.852] [thrdID:0] [info] rltv_cam_origin_crd: (-0.0714, 2.8, -0.473) selected abs_ball_crd: (-0.195, 3.58, 0.0269)
+
+[2025-06-28 11:29:53.852] [thrdID:0] [info] theta: 90.7 10.5
+[2025-06-28 11:29:53.852] [thrdID:0] [info] can[0x23]:10.5 90.7 42b5638441289661
+
+dt is changed into:0.016789
+[2025-06-28 11:29:53.852] [thrdID:0] [info] predict_pos:(-0.039, 3.23)
+------------abs_ball_crd----0.175973 3.568951 0.024324
+[2025-06-28 11:29:53.869] [thrdID:1] [info] rltv_cam_origin_crd: (-0.0523, 2.79, -0.476) selected abs_ball_crd: (-0.176, 3.57, 0.0243)
+
+[2025-06-28 11:29:53.870] [thrdID:1] [info] theta: 90.3 10.4
+[2025-06-28 11:29:53.870] [thrdID:1] [info] can[0x23]:10.4 90.3 42b49db04126f939
+
+dt is changed into:0.016789
+[2025-06-28 11:29:53.870] [thrdID:1] [info] predict_pos:(-0.039, 3.23)
+------------abs_ball_crd----0.170672 3.579655 0.022445
+[2025-06-28 11:29:53.886] [thrdID:0] [info] rltv_cam_origin_crd: (-0.047, 2.8, -0.478) selected abs_ball_crd: (-0.171, 3.58, 0.0224)
+
+[2025-06-28 11:29:53.886] [thrdID:0] [info] theta: 90.2 10.4
+[2025-06-28 11:29:53.886] [thrdID:0] [info] can[0x23]:10.4 90.2 42b463364126f4f1
+
+dt is changed into:0.016788
+[2025-06-28 11:29:53.886] [thrdID:0] [info] predict_pos:(-0.039, 3.23)
+------------abs_ball_crd----0.181061 3.598594 0.003457
+[2025-06-28 11:29:53.903] [thrdID:0] [info] rltv_cam_origin_crd: (-0.0574, 2.82, -0.497) selected abs_ball_crd: (-0.181, 3.6, 0.00346)
+
+[2025-06-28 11:29:53.903] [thrdID:0] [info] theta: 90.4 10.1
+[2025-06-28 11:29:53.903] [thrdID:0] [info] can[0x23]:10.1 90.4 42b4cb3e4121fabc
+
+dt is changed into:0.016789
+[2025-06-28 11:29:53.903] [thrdID:0] [info] predict_pos:(-0.039, 3.23)
+------------abs_ball_crd----0.164372 3.618519 0.023114
+[2025-06-28 11:29:53.919] [thrdID:0] [info] rltv_cam_origin_crd: (-0.0492, 2.78, -0.477) selected abs_ball_crd: (-0.164, 3.62, 0.0231)
+
+[2025-06-28 11:29:53.920] [thrdID:0] [info] theta: 90.2 10.4
+[2025-06-28 11:29:53.920] [thrdID:0] [info] can[0x23]:10.4 90.2 42b47ba9412658fc
+
+dt is changed into:0.016788
+[2025-06-28 11:29:53.920] [thrdID:0] [info] predict_pos:(-0.039, 3.23)
+------------abs_ball_crd----0.185667 3.637535 -0.009383
+[2025-06-28 11:29:53.937] [thrdID:1] [info] rltv_cam_origin_crd: (-0.0705, 2.8, -0.509) selected abs_ball_crd: (-0.186, 3.64, -0.00938)
+
+[2025-06-28 11:29:53.937] [thrdID:1] [info] theta: 90.7 9.82
+[2025-06-28 11:29:53.937] [thrdID:1] [info] can[0x23]:9.82 90.7 42b5562d411d1231
+
+dt is changed into:0.016789
+[2025-06-28 11:29:53.937] [thrdID:1] [info] predict_pos:(-0.039, 3.23)
+------------abs_ball_crd----0.169359 3.584976 -0.001573
+[2025-06-28 11:29:53.954] [thrdID:1] [info] rltv_cam_origin_crd: (-0.0542, 2.75, -0.502) selected abs_ball_crd: (-0.169, 3.58, -0.00157)
+
+[2025-06-28 11:29:53.954] [thrdID:1] [info] theta: 90.4 9.78
+[2025-06-28 11:29:53.954] [thrdID:1] [info] can[0x23]:9.78 90.4 42b4b590411c81fe
+
+dt is changed into:0.016788
+[2025-06-28 11:29:53.954] [thrdID:1] [info] predict_pos:(-0.039, 3.23)
+------------abs_ball_crd----0.166654 3.631920 0.023189
+[2025-06-28 11:29:53.970] [thrdID:0] [info] rltv_cam_origin_crd: (-0.0515, 2.8, -0.477) selected abs_ball_crd: (-0.167, 3.63, 0.0232)
+
+[2025-06-28 11:29:53.970] [thrdID:0] [info] theta: 90.3 10.4
+[2025-06-28 11:29:53.970] [thrdID:0] [info] can[0x23]:10.4 90.3 42b48eaf41271a53
+
+dt is changed into:0.016789
+[2025-06-28 11:29:53.970] [thrdID:0] [info] predict_pos:(-0.039, 3.23)
+------------abs_ball_crd----0.192412 3.624517 -0.007500
+[2025-06-28 11:29:53.987] [thrdID:0] [info] rltv_cam_origin_crd: (-0.0773, 2.79, -0.507) selected abs_ball_crd: (-0.192, 3.62, -0.0075)
+
+[2025-06-28 11:29:53.987] [thrdID:0] [info] theta: 90.8 9.81
+[2025-06-28 11:29:53.987] [thrdID:0] [info] can[0x23]:9.81 90.8 42b59e19411cead1
+
+dt is changed into:0.016788
+[2025-06-28 11:29:53.987] [thrdID:0] [info] predict_pos:(-0.039, 3.23)
+------------abs_ball_crd----0.173150 3.602736 -0.000903
+[2025-06-28 11:29:54.004] [thrdID:0] [info] rltv_cam_origin_crd: (-0.058, 2.77, -0.501) selected abs_ball_crd: (-0.173, 3.6, -0.000903)
+
+[2025-06-28 11:29:54.004] [thrdID:0] [info] theta: 90.4 9.86
+[2025-06-28 11:29:54.004] [thrdID:0] [info] can[0x23]:9.86 90.4 42b4d79b411dc30b
+
+dt is changed into:0.016788
+[2025-06-28 11:29:54.004] [thrdID:0] [info] predict_pos:(-0.039, 3.23)
+------------abs_ball_crd----0.164672 3.636056 0.002182
+[2025-06-28 11:29:54.020] [thrdID:0] [info] rltv_cam_origin_crd: (-0.0638, 2.75, -0.498) selected abs_ball_crd: (-0.165, 3.64, 0.00218)
+
+[2025-06-28 11:29:54.020] [thrdID:0] [info] theta: 90.5 9.87
+[2025-06-28 11:29:54.020] [thrdID:0] [info] can[0x23]:9.87 90.5 42b517b6411dfd57
+
+dt is changed into:0.016788
+[2025-06-28 11:29:54.020] [thrdID:0] [info] predict_pos:(-0.039, 3.23)
+------------abs_ball_crd----0.181485 3.594886 -0.020274
+[2025-06-28 11:29:54.037] [thrdID:0] [info] rltv_cam_origin_crd: (-0.0806, 2.71, -0.52) selected abs_ball_crd: (-0.181, 3.59, -0.0203)
+
+[2025-06-28 11:29:54.037] [thrdID:0] [info] theta: 90.9 9.26
+[2025-06-28 11:29:54.037] [thrdID:0] [info] can[0x23]:9.26 90.9 42b5d6e2411439cb
+
+dt is changed into:0.016788
+[2025-06-28 11:29:54.037] [thrdID:0] [info] predict_pos:(-0.039, 3.23)
+------------abs_ball_crd----0.148202 3.602819 -0.005472
+[2025-06-28 11:29:54.054] [thrdID:1] [info] rltv_cam_origin_crd: (-0.0473, 2.72, -0.505) selected abs_ball_crd: (-0.148, 3.6, -0.00547)
+
+[2025-06-28 11:29:54.055] [thrdID:1] [info] theta: 90.2 9.6
+[2025-06-28 11:29:54.055] [thrdID:1] [info] can[0x23]:9.6 90.2 42b46ce741198950
+
+dt is changed into:0.016788
+[2025-06-28 11:29:54.055] [thrdID:1] [info] predict_pos:(-0.039, 3.23)
+------------abs_ball_crd----0.168094 3.613672 -0.013462
+[2025-06-28 11:29:54.071] [thrdID:1] [info] rltv_cam_origin_crd: (-0.0672, 2.73, -0.513) selected abs_ball_crd: (-0.168, 3.61, -0.0135)
+
+[2025-06-28 11:29:54.071] [thrdID:1] [info] theta: 90.6 9.47
+[2025-06-28 11:29:54.071] [thrdID:1] [info] can[0x23]:9.47 90.6 42b53f9641179964
+
+dt is changed into:0.016788
+[2025-06-28 11:29:54.072] [thrdID:1] [info] predict_pos:(-0.039, 3.23)
+------------abs_ball_crd----0.173351 3.578163 -0.013059
+[2025-06-28 11:29:54.088] [thrdID:1] [info] rltv_cam_origin_crd: (-0.0725, 2.7, -0.513) selected abs_ball_crd: (-0.173, 3.58, -0.0131)
+
+[2025-06-28 11:29:54.088] [thrdID:1] [info] theta: 90.8 9.35
+[2025-06-28 11:29:54.088] [thrdID:1] [info] can[0x23]:9.35 90.8 42b5817141158a68
+
+dt is changed into:0.016788
+[2025-06-28 11:29:54.089] [thrdID:1] [info] predict_pos:(-0.039, 3.23)
+------------abs_ball_crd----0.157233 3.597455 -0.032348
+[2025-06-28 11:29:54.105] [thrdID:1] [info] rltv_cam_origin_crd: (-0.0564, 2.72, -0.532) selected abs_ball_crd: (-0.157, 3.6, -0.0323)
+
+[2025-06-28 11:29:54.105] [thrdID:1] [info] theta: 90.4 9.03
+[2025-06-28 11:29:54.105] [thrdID:1] [info] can[0x23]:9.03 90.4 42b4cd0441107538
+
+dt is changed into:0.016788
+[2025-06-28 11:29:54.105] [thrdID:1] [info] predict_pos:(-0.039, 3.23)
+------------abs_ball_crd----0.137888 3.640732 -0.034214
+[2025-06-28 11:29:54.122] [thrdID:1] [info] rltv_cam_origin_crd: (-0.0578, 2.72, -0.534) selected abs_ball_crd: (-0.138, 3.64, -0.0342)
+
+[2025-06-28 11:29:54.122] [thrdID:1] [info] theta: 90.4 9.02
+[2025-06-28 11:29:54.122] [thrdID:1] [info] can[0x23]:9.02 90.4 42b4da5c41105569
+
+dt is changed into:0.016787
+[2025-06-28 11:29:54.122] [thrdID:1] [info] predict_pos:(-0.039, 3.23)
+------------abs_ball_crd----0.152123 3.628676 -0.023618
+[2025-06-28 11:29:54.138] [thrdID:0] [info] rltv_cam_origin_crd: (-0.0721, 2.71, -0.524) selected abs_ball_crd: (-0.152, 3.63, -0.0236)
+
+[2025-06-28 11:29:54.138] [thrdID:0] [info] theta: 90.7 9.19
+[2025-06-28 11:29:54.138] [thrdID:0] [info] can[0x23]:9.19 90.7 42b57645411303e8
+
+dt is changed into:0.016788
+[2025-06-28 11:29:54.138] [thrdID:0] [info] predict_pos:(-0.039, 3.23)
+------------abs_ball_crd----0.157289 3.619011 -0.039568
+[2025-06-28 11:29:54.155] [thrdID:0] [info] rltv_cam_origin_crd: (-0.0772, 2.7, -0.54) selected abs_ball_crd: (-0.157, 3.62, -0.0396)
+
+[2025-06-28 11:29:54.155] [thrdID:0] [info] theta: 90.8 8.82
+[2025-06-28 11:29:54.155] [thrdID:0] [info] can[0x23]:8.82 90.8 42b5b04f410d3193
+
+dt is changed into:0.016788
+[2025-06-28 11:29:54.155] [thrdID:0] [info] predict_pos:(-0.039, 3.23)
+------------abs_ball_crd----0.127126 3.629654 -0.057641
+[2025-06-28 11:29:54.172] [thrdID:0] [info] rltv_cam_origin_crd: (-0.0471, 2.71, -0.558) selected abs_ball_crd: (-0.127, 3.63, -0.0576)
+
+[2025-06-28 11:29:54.172] [thrdID:0] [info] theta: 90.2 8.5
+[2025-06-28 11:29:54.172] [thrdID:0] [info] can[0x23]:8.5 90.2 42b4662041080411
+
+dt is changed into:0.016787
+[2025-06-28 11:29:54.172] [thrdID:0] [info] predict_pos:(-0.039, 3.23)
+------------abs_ball_crd----0.147386 3.616447 -0.085884
+[2025-06-28 11:29:54.189] [thrdID:0] [info] rltv_cam_origin_crd: (-0.0673, 2.7, -0.586) selected abs_ball_crd: (-0.147, 3.62, -0.0859)
+
+[2025-06-28 11:29:54.189] [thrdID:0] [info] theta: 90.6 7.87
+[2025-06-28 11:29:54.189] [thrdID:0] [info] can[0x23]:7.87 90.6 42b543ee40fbe626
+
+dt is changed into:0.016787
+[2025-06-28 11:29:54.189] [thrdID:0] [info] predict_pos:(-0.039, 3.23)
+------------abs_ball_crd----0.167662 3.611291 -0.088417
+[2025-06-28 11:29:54.205] [thrdID:0] [info] rltv_cam_origin_crd: (-0.0876, 2.69, -0.588) selected abs_ball_crd: (-0.168, 3.61, -0.0884)
+
+[2025-06-28 11:29:54.205] [thrdID:0] [info] theta: 91.1 7.8
+[2025-06-28 11:29:54.205] [thrdID:0] [info] can[0x23]:7.8 91.1 42b6212940f9868f
+
+dt is changed into:0.016788
+[2025-06-28 11:29:54.205] [thrdID:0] [info] predict_pos:(-0.039, 3.23)
+------------abs_ball_crd----0.115903 3.630568 -0.069883
+[2025-06-28 11:29:54.222] [thrdID:1] [info] rltv_cam_origin_crd: (-0.0671, 2.69, -0.57) selected abs_ball_crd: (-0.116, 3.63, -0.0699)
+
+[2025-06-28 11:29:54.223] [thrdID:1] [info] theta: 90.6 8.17
+[2025-06-28 11:29:54.223] [thrdID:1] [info] can[0x23]:8.17 90.6 42b541624102c8d0
+
+dt is changed into:0.016787
+[2025-06-28 11:29:54.223] [thrdID:1] [info] predict_pos:(-0.039, 3.23)
+------------abs_ball_crd----0.124373 3.616082 -0.106203
+[2025-06-28 11:29:54.239] [thrdID:0] [info] rltv_cam_origin_crd: (-0.0756, 2.68, -0.606) selected abs_ball_crd: (-0.124, 3.62, -0.106)
+
+[2025-06-28 11:29:54.239] [thrdID:0] [info] theta: 90.8 7.37
+[2025-06-28 11:29:54.239] [thrdID:0] [info] can[0x23]:7.37 90.8 42b5a13440ebd922
+
+dt is changed into:0.016788
+[2025-06-28 11:29:54.239] [thrdID:0] [info] predict_pos:(-0.039, 3.23)
+------------abs_ball_crd----0.145131 3.557203 -0.129211
+[2025-06-28 11:29:54.256] [thrdID:0] [info] rltv_cam_origin_crd: (-0.0964, 2.62, -0.629) selected abs_ball_crd: (-0.145, 3.56, -0.129)
+
+[2025-06-28 11:29:54.256] [thrdID:0] [info] theta: 91.3 6.62
+[2025-06-28 11:29:54.256] [thrdID:0] [info] can[0x23]:6.62 91.3 42b69b2440d3bce3
+
+dt is changed into:0.016787
+[2025-06-28 11:29:54.256] [thrdID:0] [info] predict_pos:(-0.039, 3.23)
+------------abs_ball_crd----0.134378 3.598776 -0.103960
+[2025-06-28 11:29:54.272] [thrdID:0] [info] rltv_cam_origin_crd: (-0.0856, 2.66, -0.604) selected abs_ball_crd: (-0.134, 3.6, -0.104)
+
+[2025-06-28 11:29:54.272] [thrdID:0] [info] theta: 91 7.34
+[2025-06-28 11:29:54.272] [thrdID:0] [info] can[0x23]:7.34 91 42b6132240eac08f
+
+dt is changed into:0.016787
+[2025-06-28 11:29:54.273] [thrdID:0] [info] predict_pos:(-0.039, 3.23)
+------------abs_ball_crd----0.146157 3.639118 -0.120404
+[2025-06-28 11:29:54.289] [thrdID:0] [info] rltv_cam_origin_crd: (-0.0974, 2.7, -0.62) selected abs_ball_crd: (-0.146, 3.64, -0.12)
+
+[2025-06-28 11:29:54.289] [thrdID:0] [info] theta: 91.3 7.19
+[2025-06-28 11:29:54.289] [thrdID:0] [info] can[0x23]:7.19 91.3 42b683fd40e60d0a
+
+dt is changed into:0.016787
+[2025-06-28 11:29:54.289] [thrdID:0] [info] predict_pos:(-0.039, 3.23)
+------------abs_ball_crd----0.170210 3.535608 -0.098469
+[2025-06-28 11:29:54.307] [thrdID:1] [info] rltv_cam_origin_crd: (-0.121, 2.6, -0.598) selected abs_ball_crd: (-0.17, 3.54, -0.0985)
+
+[2025-06-28 11:29:54.307] [thrdID:1] [info] theta: 91.9 7.15
+[2025-06-28 11:29:54.307] [thrdID:1] [info] can[0x23]:7.15 91.9 42b7bc4a40e4d2cf
+
+dt is changed into:0.016787
+[2025-06-28 11:29:54.307] [thrdID:1] [info] predict_pos:(-0.039, 3.23)
+------------abs_ball_crd----0.092375 3.592724 -0.128138
+[2025-06-28 11:29:54.323] [thrdID:0] [info] rltv_cam_origin_crd: (-0.0881, 2.65, -0.628) selected abs_ball_crd: (-0.0924, 3.59, -0.128)
+
+[2025-06-28 11:29:54.323] [thrdID:0] [info] theta: 91.1 6.81
+[2025-06-28 11:29:54.323] [thrdID:0] [info] can[0x23]:6.81 91.1 42b62e7440d9db92
+
+dt is changed into:0.016787
+[2025-06-28 11:29:54.323] [thrdID:0] [info] predict_pos:(-0.039, 3.23)
+------------abs_ball_crd----0.123682 3.608455 -0.153197
+[2025-06-28 11:29:54.340] [thrdID:0] [info] rltv_cam_origin_crd: (-0.119, 2.67, -0.653) selected abs_ball_crd: (-0.124, 3.61, -0.153)
+
+[2025-06-28 11:29:54.340] [thrdID:0] [info] theta: 91.7 6.38
+[2025-06-28 11:29:54.340] [thrdID:0] [info] can[0x23]:6.38 91.7 42b77f5040cc02b8
+
+dt is changed into:0.016787
+[2025-06-28 11:29:54.340] [thrdID:0] [info] predict_pos:(-0.039, 3.23)
+------------abs_ball_crd----0.125334 3.585433 -0.106519
+[2025-06-28 11:29:54.357] [thrdID:1] [info] rltv_cam_origin_crd: (-0.121, 2.65, -0.607) selected abs_ball_crd: (-0.125, 3.59, -0.107)
+
+[2025-06-28 11:29:54.357] [thrdID:1] [info] theta: 91.8 7.22
+[2025-06-28 11:29:54.357] [thrdID:1] [info] can[0x23]:7.22 91.8 42b79c2940e6ed44
+
+dt is changed into:0.016787
+[2025-06-28 11:29:54.357] [thrdID:1] [info] predict_pos:(-0.039, 3.23)
+------------abs_ball_crd----0.157297 3.540435 -0.140078
+[2025-06-28 11:29:54.373] [thrdID:0] [info] rltv_cam_origin_crd: (-0.153, 2.6, -0.64) selected abs_ball_crd: (-0.157, 3.54, -0.14)
+
+[2025-06-28 11:29:54.373] [thrdID:0] [info] theta: 92.6 6.3
+[2025-06-28 11:29:54.373] [thrdID:0] [info] can[0x23]:6.3 92.6 42b919cb40c9abf6
+
+dt is changed into:0.016786
+[2025-06-28 11:29:54.374] [thrdID:0] [info] predict_pos:(-0.039, 3.23)
+------------abs_ball_crd----0.136920 3.554228 -0.120955
+[2025-06-28 11:29:54.390] [thrdID:0] [info] rltv_cam_origin_crd: (-0.133, 2.62, -0.621) selected abs_ball_crd: (-0.137, 3.55, -0.121)
+
+[2025-06-28 11:29:54.390] [thrdID:0] [info] theta: 92.1 6.77
+[2025-06-28 11:29:54.390] [thrdID:0] [info] can[0x23]:6.77 92.1 42b82c2040d8948f
+
+dt is changed into:0.016787
+[2025-06-28 11:29:54.391] [thrdID:0] [info] predict_pos:(-0.039, 3.23)
+------------abs_ball_crd----0.151064 3.601817 -0.136533
+[2025-06-28 11:29:54.407] [thrdID:1] [info] rltv_cam_origin_crd: (-0.147, 2.66, -0.637) selected abs_ball_crd: (-0.151, 3.6, -0.137)
+
+[2025-06-28 11:29:54.407] [thrdID:1] [info] theta: 92.3 6.68
+[2025-06-28 11:29:54.407] [thrdID:1] [info] can[0x23]:6.68 92.3 42b8ac2840d5ca66
+
+dt is changed into:0.016786
+[2025-06-28 11:29:54.408] [thrdID:1] [info] predict_pos:(-0.039, 3.23)
+------------abs_ball_crd----0.111358 3.545037 -0.144282
+[2025-06-28 11:29:54.424] [thrdID:0] [info] rltv_cam_origin_crd: (-0.161, 2.62, -0.644) selected abs_ball_crd: (-0.111, 3.55, -0.144)
+
+[2025-06-28 11:29:54.424] [thrdID:0] [info] theta: 92.7 6.31
+[2025-06-28 11:29:54.424] [thrdID:0] [info] can[0x23]:6.31 92.7 42b960c540ca11e0
+
+dt is changed into:0.016787
+[2025-06-28 11:29:54.424] [thrdID:0] [info] predict_pos:(-0.039, 3.23)
+------------abs_ball_crd----0.112836 3.552001 -0.142363
+[2025-06-28 11:29:54.441] [thrdID:0] [info] rltv_cam_origin_crd: (-0.162, 2.63, -0.642) selected abs_ball_crd: (-0.113, 3.55, -0.142)
+
+[2025-06-28 11:29:54.441] [thrdID:0] [info] theta: 92.7 6.39
+[2025-06-28 11:29:54.441] [thrdID:0] [info] can[0x23]:6.39 92.7 42b96ba740cc756e
+
+dt is changed into:0.016786
+[2025-06-28 11:29:54.441] [thrdID:0] [info] predict_pos:(-0.039, 3.23)
+------------abs_ball_crd----0.132819 3.537978 -0.180155
+[2025-06-28 11:29:54.458] [thrdID:1] [info] rltv_cam_origin_crd: (-0.182, 2.61, -0.68) selected abs_ball_crd: (-0.133, 3.54, -0.18)
+
+[2025-06-28 11:29:54.458] [thrdID:1] [info] theta: 93.2 5.54
+[2025-06-28 11:29:54.458] [thrdID:1] [info] can[0x23]:5.54 93.2 42ba53ba40b14988
+
+dt is changed into:0.016787
+[2025-06-28 11:29:54.458] [thrdID:1] [info] predict_pos:(-0.039, 3.23)
+------------abs_ball_crd----0.125113 3.556875 -0.131311
+[2025-06-28 11:29:54.474] [thrdID:0] [info] rltv_cam_origin_crd: (-0.174, 2.63, -0.631) selected abs_ball_crd: (-0.125, 3.56, -0.131)
+
+[2025-06-28 11:29:54.474] [thrdID:0] [info] theta: 93 6.64
+[2025-06-28 11:29:54.474] [thrdID:0] [info] can[0x23]:6.64 93 42b9eee240d4826b
+
+dt is changed into:0.016786
+[2025-06-28 11:29:54.474] [thrdID:0] [info] predict_pos:(-0.039, 3.23)
+------------abs_ball_crd----0.147044 3.582749 -0.152726
+[2025-06-28 11:29:54.491] [thrdID:0] [info] rltv_cam_origin_crd: (-0.196, 2.66, -0.653) selected abs_ball_crd: (-0.147, 3.58, -0.153)
+
+[2025-06-28 11:29:54.491] [thrdID:0] [info] theta: 93.4 6.33
+[2025-06-28 11:29:54.491] [thrdID:0] [info] can[0x23]:6.33 93.4 42bacbfa40ca9aec
+
+dt is changed into:0.016786
+[2025-06-28 11:29:54.491] [thrdID:0] [info] predict_pos:(-0.039, 3.23)
+------------abs_ball_crd----0.163647 3.579532 -0.159860
+[2025-06-28 11:29:54.507] [thrdID:0] [info] rltv_cam_origin_crd: (-0.213, 2.66, -0.66) selected abs_ball_crd: (-0.164, 3.58, -0.16)
+
+[2025-06-28 11:29:54.507] [thrdID:0] [info] theta: 93.8 6.17
+[2025-06-28 11:29:54.507] [thrdID:0] [info] can[0x23]:6.17 93.8 42bb840c40c57347
+
+dt is changed into:0.016786
+[2025-06-28 11:29:54.507] [thrdID:0] [info] predict_pos:(-0.039, 3.23)
+------------abs_ball_crd----0.097731 3.549840 -0.155181
+[2025-06-28 11:29:54.524] [thrdID:0] [info] rltv_cam_origin_crd: (-0.201, 2.66, -0.655) selected abs_ball_crd: (-0.0977, 3.55, -0.155)
+
+[2025-06-28 11:29:54.524] [thrdID:0] [info] theta: 93.5 6.27
+[2025-06-28 11:29:54.524] [thrdID:0] [info] can[0x23]:6.27 93.5 42bafdd340c8af1e
+
+dt is changed into:0.016787
+[2025-06-28 11:29:54.524] [thrdID:0] [info] predict_pos:(-0.039, 3.23)
+------------abs_ball_crd----0.119663 3.564972 -0.185616
+[2025-06-28 11:29:54.541] [thrdID:0] [info] rltv_cam_origin_crd: (-0.223, 2.67, -0.686) selected abs_ball_crd: (-0.12, 3.56, -0.186)
+
+[2025-06-28 11:29:54.541] [thrdID:0] [info] theta: 93.9 5.73
+[2025-06-28 11:29:54.541] [thrdID:0] [info] can[0x23]:5.73 93.9 42bbdfc040b77491
+
+dt is changed into:0.016786
+[2025-06-28 11:29:54.541] [thrdID:0] [info] predict_pos:(-0.039, 3.23)
+------------abs_ball_crd----0.118290 3.555753 -0.169181
+[2025-06-28 11:29:54.558] [thrdID:0] [info] rltv_cam_origin_crd: (-0.222, 2.66, -0.669) selected abs_ball_crd: (-0.118, 3.56, -0.169)
+
+[2025-06-28 11:29:54.558] [thrdID:0] [info] theta: 93.9 6.02
+[2025-06-28 11:29:54.558] [thrdID:0] [info] can[0x23]:6.02 93.9 42bbd85640c08de6
+
+dt is changed into:0.016786
+[2025-06-28 11:29:54.558] [thrdID:0] [info] predict_pos:(-0.039, 3.23)
+------------abs_ball_crd----0.131793 3.577901 -0.158911
+[2025-06-28 11:29:54.574] [thrdID:0] [info] rltv_cam_origin_crd: (-0.235, 2.69, -0.659) selected abs_ball_crd: (-0.132, 3.58, -0.159)
+
+[2025-06-28 11:29:54.575] [thrdID:0] [info] theta: 94.2 6.34
+[2025-06-28 11:29:54.575] [thrdID:0] [info] can[0x23]:6.34 94.2 42bc55fc40cabc7d
+
+dt is changed into:0.016786
+[2025-06-28 11:29:54.575] [thrdID:0] [info] predict_pos:(-0.039, 3.23)
+------------abs_ball_crd----0.154952 3.594737 -0.165734
+[2025-06-28 11:29:54.591] [thrdID:0] [info] rltv_cam_origin_crd: (-0.258, 2.7, -0.666) selected abs_ball_crd: (-0.155, 3.59, -0.166)
+
+[2025-06-28 11:29:54.592] [thrdID:0] [info] theta: 94.6 6.28
+[2025-06-28 11:29:54.592] [thrdID:0] [info] can[0x23]:6.28 94.6 42bd3e9d40c90394
+
+dt is changed into:0.016786
+[2025-06-28 11:29:54.592] [thrdID:0] [info] predict_pos:(-0.039, 3.23)
+------------abs_ball_crd----0.138556 3.602728 -0.167803
+[2025-06-28 11:29:54.608] [thrdID:0] [info] rltv_cam_origin_crd: (-0.242, 2.71, -0.668) selected abs_ball_crd: (-0.139, 3.6, -0.168)
+
+[2025-06-28 11:29:54.608] [thrdID:0] [info] theta: 94.3 6.28
+[2025-06-28 11:29:54.608] [thrdID:0] [info] can[0x23]:6.28 94.3 42bc85aa40c8f332
+
+dt is changed into:0.016785
+[2025-06-28 11:29:54.608] [thrdID:0] [info] predict_pos:(-0.039, 3.23)
+------------abs_ball_crd----0.073597 3.563209 -0.216004
+[2025-06-28 11:29:54.625] [thrdID:0] [info] rltv_cam_origin_crd: (-0.227, 2.71, -0.716) selected abs_ball_crd: (-0.0736, 3.56, -0.216)
+
+[2025-06-28 11:29:54.625] [thrdID:0] [info] theta: 94 5.34
+[2025-06-28 11:29:54.625] [thrdID:0] [info] can[0x23]:5.34 94 42bbe84d40aac765
+
+dt is changed into:0.016786
+[2025-06-28 11:29:54.625] [thrdID:0] [info] predict_pos:(-0.039, 3.23)
+------------abs_ball_crd----0.082476 3.652700 -0.209606
+[2025-06-28 11:29:54.643] [thrdID:1] [info] rltv_cam_origin_crd: (-0.236, 2.8, -0.71) selected abs_ball_crd: (-0.0825, 3.65, -0.21)
+
+[2025-06-28 11:29:54.643] [thrdID:1] [info] theta: 94 5.91
+[2025-06-28 11:29:54.643] [thrdID:1] [info] can[0x23]:5.91 94 42bbf5d040bd2f0d
+
+dt is changed into:0.016786
+[2025-06-28 11:29:54.643] [thrdID:1] [info] predict_pos:(-0.039, 3.23)
